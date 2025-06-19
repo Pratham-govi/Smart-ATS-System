@@ -96,4 +96,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-*Note: This README provides a general overview. For detailed explanations and code insights, refer to the Jupyter Notebook and Python scripts in the repository.*# Smart-ATS-System
+*Note: This README provides a general overview. For detailed explanations and code insights, refer to the Jupyter Notebook and Python scripts in the repository.*
